@@ -26,7 +26,7 @@ The goal is to explore patterns and natural groupings among various Irish specie
 
 ---
 
-## 🛠 Tools and Libraries
+## Tools and Libraries
 
 - Python 
 - Pandas, NumPy 
