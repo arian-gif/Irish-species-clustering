@@ -1,16 +1,16 @@
-# 🍀 Irish Species Clustering using K-Means and Hierarchical Clustering
+#  Irish Species Clustering using K-Means and Hierarchical Clustering
 
 This project demonstrates how to apply unsupervised learning algorithms—**K-Means Clustering** and **Hierarchical Clustering** to group Irish species into meaningful categories based on their features.
 
 ---
 
-## 🐾 Project Overview
+##  Project Overview
 
 The goal is to explore patterns and natural groupings among various Irish species using clustering techniques. The data is taken from Kaggle
 
 ---
 
-## 🔍 Methods
+##  Methods
 
 ### 1. K-Means Clustering
 
@@ -26,7 +26,7 @@ The goal is to explore patterns and natural groupings among various Irish specie
 
 ---
 
-## 🛠️ Tools and Libraries
+## 🛠 Tools and Libraries
 
 - Python 
 - Pandas, NumPy 
